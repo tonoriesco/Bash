@@ -1,1 +1,1 @@
-# Bash
+# Configurations for some programs
